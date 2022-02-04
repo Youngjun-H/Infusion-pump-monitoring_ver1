@@ -12,3 +12,5 @@
 array = [i for i in range(20) if i % 2 == 1]
 
 print(array)
+
+# 내용이 추가 되었다!!!!!!!!!
